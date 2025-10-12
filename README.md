@@ -1,0 +1,1 @@
+# 2025-Autumn-Aberdeen-n-VigorDiary
