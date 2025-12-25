@@ -62,6 +62,10 @@ com.example.scenelock
 └── utils                    // 工具类
     └── AppLockManager.kt    // 封装权限检查与前台应用检测逻辑
 ```
----
 
+
+## 安装包
+[Release](https://github.com/android-app-development-course/2025-Autumn-Aberdeen-6-SceneLock/releases/tag/scenelock)
+
+---
 **境所 SceneLock** - *如果你管不住自己，就让境所来管你。*
