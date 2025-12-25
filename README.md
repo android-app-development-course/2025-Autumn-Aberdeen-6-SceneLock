@@ -62,11 +62,6 @@ com.example.scenelock
 └── utils                    // 工具类
     └── AppLockManager.kt    // 封装权限检查与前台应用检测逻辑
 ```
-
-## 📄 许可证 (License)
-
-本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件。
-
 ---
 
 **境所 SceneLock** - *如果你管不住自己，就让境所来管你。*
