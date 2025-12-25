@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "423960260522",
+    "project_id": "scenelock-632ab",
+    "storage_bucket": "scenelock-632ab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423960260522:android:43498bf9b1ec4977d845d3",
+        "android_client_info": {
+          "package_name": "com.example.scenelock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423960260522-ild1t5v6lerrqgg3tbgklu3tgh834d7g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.scenelock",
+            "certificate_hash": "e21b43ba0e966e52c4bb963fcd342cb7c01cbf06"
+          }
+        },
+        {
+          "client_id": "423960260522-7cnt5stiep5t7udt9inmh3jmct97hfml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTvXxIdRnEdz2tSzCL4MqBR03DI67szH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423960260522-7cnt5stiep5t7udt9inmh3jmct97hfml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
