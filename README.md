@@ -30,7 +30,7 @@
     *   手绘折线图展示近 7 天专注趋势。
     *   概览卡片显示总时长、今日专注及日均数据。
 
-## 🛠️ 技术栈
+## 技术栈
 
 *   **语言**: Kotlin
 *   **UI 框架**: Jetpack Compose (Material3)
@@ -42,7 +42,7 @@
     *   **认证**: Firebase Authentication & Credential Manager API
     *   **绘图**: Compose Canvas (自定义图表)
 
-## 📂 项目结构
+## 项目结构
 
 ```text
 com.example.scenelock
